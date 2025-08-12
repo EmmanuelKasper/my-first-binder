@@ -1,2 +1,2 @@
 # my-first-binder
-Binder hub test repo
+Trivial Jupyter notebook to test binder
